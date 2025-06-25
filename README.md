@@ -1,7 +1,7 @@
 # MovieRating App
 
 # Overview
-This is a MERN project called Twitter clone built to demonstrate a basic social media application. The application allows users to register, log in, post tweets, follow other users, and like tweets. The frontend is built with React, and the backend is powered by Node.js and express. The project is designed to be a learning tool for web development fundamentals.
+This is a MERN project called Twitter and IMDB clone built to demonstrate a basic social media application for films. The application allows users to register, log in, post tweets, follow other users, and like tweets. The frontend is built with React, and the backend is powered by Node.js and express. The project is designed to be a learning tool for web development fundamentals.
 
 # Features
 - User authentication (signup, login, logout)
